@@ -1,6 +1,6 @@
 # Hi, I'm Akula Geetha Maheswari 👋
 
-### Data Science Graduate from IIT Madras | Machine Learning Engineer | Building End-to-End ML Systems
+### IIT Madras Data Science Graduate | Aspiring ML Engineer | Python | Flask | SQL | End-to-End ML Systems
 
 I build practical machine learning systems focused on prediction, automation, APIs, and real-world problem solving using Python, Flask, and Scikit-learn.
 
@@ -8,12 +8,13 @@ I build practical machine learning systems focused on prediction, automation, AP
 
 ## 🚀 About Me
 
-* 🎓 BSc in Data Science and Programming — IIT Madras
-* 🤖 Focused on Machine Learning Engineering
+* 🎓 BSc in Data Science and Programming — IIT Madras (CGPA: 8.4)
+* 🤖 Focused on Machine Learning Engineering and Applied AI
 * 🧠 Skilled in ML Pipelines, Model Deployment, APIs, and Data Analysis
-* 📊 Interested in solving business problems using data-driven systems
+* 📊 Interested in solving real-world business problems using data-driven systems
 * ⚡ Building production-oriented ML applications with backend integration
-* 💼 Open to ML Engineer / Data Scientist / Data Engineer / Data Analyst roles
+* 🤝 Experienced working in collaborative Agile-based development environments
+* 💼 Open to ML Engineer, Data Scientist, and AI Engineer opportunities
 
 ---
 
@@ -30,8 +31,9 @@ I build practical machine learning systems focused on prediction, automation, AP
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
-### Backend & Deployment
+### Backend & APIs
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
@@ -47,7 +49,7 @@ I build practical machine learning systems focused on prediction, automation, AP
 
 # 📌 Featured Projects
 
-## 🔹 Customer Churn Prediction System
+## 🔹 [Customer Churn Prediction System](YOUR_PROJECT_LINK)
 
 End-to-end ML system built to identify high-risk customers using classification models and ensemble learning.
 
@@ -66,7 +68,7 @@ Python • Scikit-learn • Flask • Pandas • NumPy
 
 ---
 
-## 🔹 CareConnect — Full Stack Healthcare Support Platform
+## 🔹 [CareConnect — Full Stack Healthcare Support Platform](YOUR_PROJECT_LINK)
 
 Full-stack application developed using Flask, VueJS, and SQLite to support elderly care management.
 
@@ -85,7 +87,7 @@ Flask • VueJS • SQLite • JWT • Pytest
 
 ---
 
-## 🔹 Risk-Based Misinformation Review System
+## 🔹 [Risk-Based Misinformation Review System](YOUR_PROJECT_LINK)
 
 ML-based prioritization framework for identifying and reviewing harmful misinformation efficiently.
 
@@ -102,7 +104,7 @@ Python • NLP • TF-IDF • Scikit-learn
 
 ---
 
-## 🔹 Crime Category Forecasting
+## 🔹 [Crime Category Forecasting](YOUR_PROJECT_LINK)
 
 Multi-class classification system using XGBoost for crime category prediction.
 
@@ -132,9 +134,9 @@ Python • XGBoost • Scikit-learn • Pandas
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetha-akula\&show_icons=true\&hide_border=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetha-akula\&layout=compact\&hide_border=true)
 
 ---
 
@@ -152,3 +154,4 @@ Python • XGBoost • Scikit-learn • Pandas
 ---
 
 ⭐ I enjoy building scalable ML systems that combine machine learning, backend engineering, APIs, and practical business impact.
+
