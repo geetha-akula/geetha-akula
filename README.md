@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Akula Geetha Maheswari
 
-<!--
-**geetha-akula/geetha-akula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Graduate from IIT Madras passionate about Machine Learning, Data Science, and AI Systems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- BSc in Data Science and Programming — IIT Madras
+- Interested in ML Engineering and Data Science
+- Skilled in Python, Flask, SQL, Scikit-learn
+- Building end-to-end ML systems
+- Open to ML Engineer / Data Scientist roles
+
+## Tech Stack
+
+### Languages
+Python, SQL
+
+### ML & Data Science
+Scikit-learn, Pandas, NumPy, Matplotlib
+
+### Backend
+Flask, REST APIs
+
+### Tools
+Git, GitHub, VS Code, PowerBI
+
+
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/geetha-akula
+
+Email: geethaakula123@gmail.com
+
+Phone No: 7661838282
