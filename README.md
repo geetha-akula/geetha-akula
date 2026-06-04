@@ -1,20 +1,19 @@
 # Hi, I'm Akula Geetha Maheswari 👋
 
-### IIT Madras Data Science Graduate | Aspiring ML Engineer | Python | Flask | SQL | End-to-End ML Systems
+### IIT Madras Data Science Graduate | Aspiring ML Engineer
 
-I build practical machine learning systems focused on prediction, automation, APIs, and real-world problem solving using Python, Flask, and Scikit-learn.
+I build end-to-end machine learning systems focused on prediction, automation, APIs, and real-world problem solving using Python, Flask, and Scikit-learn.
 
 ---
 
 ## 🚀 About Me
-
-* 🎓 BSc in Data Science and Programming — IIT Madras (CGPA: 8.4)
-* 🤖 Focused on Machine Learning Engineering and Applied AI
-* 🧠 Skilled in ML Pipelines, Model Deployment, APIs, and Data Analysis
-* 📊 Interested in solving real-world business problems using data-driven systems
-* ⚡ Building production-oriented ML applications with backend integration
-* 🤝 Experienced working in collaborative Agile-based development environments
-* 💼 Open to ML Engineer, Data Scientist, and AI Engineer opportunities
+🎓 BSc in Data Science and Programming, IIT Madras (CGPA: 8.4)
+🤖 Passionate about Machine Learning Engineering, Applied AI, and Data Science
+🧠 Skilled in ML pipelines, model training, backend APIs, and data analysis
+📊 Interested in solving real-world business problems using data-driven systems
+⚡ Building practical machine learning applications with backend integration
+🤝 Experienced working in collaborative Agile-based development environments
+💼 Seeking opportunities in Machine Learning Engineering, Applied AI, and Data Science
 
 ---
 
@@ -66,11 +65,13 @@ End-to-end ML system built to identify high-risk customers using classification 
 
 Python • Scikit-learn • Flask • Pandas • NumPy
 
+🔗 Repository: [Add Repository Link]
+
 ---
 
 ## 🔹 [CareConnect — Full Stack Healthcare Support Platform](YOUR_PROJECT_LINK)
 
-Full-stack application developed using Flask, VueJS, and SQLite to support elderly care management.
+Full-stack healthcare support platform built using Flask, Vue.js, and SQLite to assist elderly users and caregivers.
 
 ### Key Highlights
 
@@ -85,11 +86,13 @@ Full-stack application developed using Flask, VueJS, and SQLite to support elder
 
 Flask • VueJS • SQLite • JWT • Pytest
 
+🔗 Repository: [Add Repository Link]
+
 ---
 
 ## 🔹 [Risk-Based Misinformation Review System](YOUR_PROJECT_LINK)
 
-ML-based prioritization framework for identifying and reviewing harmful misinformation efficiently.
+Machine learning framework for prioritizing harmful misinformation and improving content moderation efficiency.
 
 ### Key Highlights
 
@@ -101,6 +104,8 @@ ML-based prioritization framework for identifying and reviewing harmful misinfor
 ### Tech Used
 
 Python • NLP • TF-IDF • Scikit-learn
+
+🔗 Repository: [Add Repository Link]
 
 ---
 
@@ -119,6 +124,8 @@ Multi-class classification system using XGBoost for crime category prediction.
 ### Tech Used
 
 Python • XGBoost • Scikit-learn • Pandas
+
+🔗 Repository: [Add Repository Link]
 
 ---
 
