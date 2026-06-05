@@ -48,7 +48,7 @@ I build end-to-end machine learning systems focused on prediction, automation, A
 
 # 📌 Featured Projects
 
-## 🔹 [Customer Churn Prediction System](YOUR_PROJECT_LINK)
+## 🔹 Customer Churn Prediction System
 
 End-to-end ML system built to identify high-risk customers using classification models and ensemble learning.
 
@@ -65,51 +65,70 @@ End-to-end ML system built to identify high-risk customers using classification 
 
 Python • Scikit-learn • Flask • Pandas • NumPy
 
-🔗 Repository: [Add Repository Link]
+🔗 Repository: [Customer Churn Prediction System](https://github.com/geetha-akula/customer-churn-prediction)
 
 ---
 
-## 🔹 [CareConnect — Full Stack Healthcare Support Platform](YOUR_PROJECT_LINK)
+## 🔹 CareConnect — Elderly Care Support Platform (Team Project)
 
-Full-stack healthcare support platform built using Flask, Vue.js, and SQLite to assist elderly users and caregivers.
+Full-stack healthcare support platform built using Flask, Vue.js, and SQLite to assist elderly users and caregivers through reminders, emergency assistance, and accessible user interfaces.
 
-### Key Highlights
+### My Contributions
 
-* Developed 15+ backend APIs
-* Implemented JWT Authentication
-* Built reminder and emergency alert systems
-* Designed normalized relational database schema
-* Added role-based workflows for multiple users
-* Wrote pytest-based API tests
+* Led Primary User Home Page development
+* Developed reminder, emergency alert, and help-status APIs
+* Integrated Geolocation API for SOS location sharing
+* Contributed to Text-to-Speech reminder functionality
+* Wrote pytest test cases for Primary User APIs
+* Participated in frontend-backend integration and system testing
+
+### Project Highlights
+
+* Developed 15+ REST APIs across multiple user roles
+* Implemented JWT-based authentication and role-based access control
+* Built medication reminder and emergency alert systems
+* Enabled live geolocation sharing during SOS events
+* Designed normalized relational database schema using SQLite
+* Supported Primary, Secondary (Caregiver), and Tertiary (Healthcare/NGO) user workflows
+* Achieved high API reliability through comprehensive pytest-based testing
 
 ### Tech Used
 
-Flask • VueJS • SQLite • JWT • Pytest
+Flask • Flask-RESTful • Vue.js • SQLite • JWT • Pytest • JavaScript Geolocation API • Web Speech API • Bootstrap 5
 
-🔗 Repository: [Add Repository Link]
+🔗 Repository: [CareConnect](https://github.com/shodhan-repo/soft-engg-project-may-2025-se-May-Team-41.git)
 
 ---
 
-## 🔹 [Risk-Based Misinformation Review System](YOUR_PROJECT_LINK)
+## 🔹 Risk-Based Misinformation Review System (Team Project)
 
-Machine learning framework for prioritizing harmful misinformation and improving content moderation efficiency.
+Academic team project completed as part of IIT Madras Industry 4.0 (GAABS 4.0).
 
-### Key Highlights
+Built a machine learning-based prioritization framework to identify high-risk misinformation content and improve the effectiveness of limited human fact-checking resources.
 
-* Combined TF-IDF text features with metadata
-* Built Random Forest classification model
-* Designed harm scoring framework
-* Improved moderation efficiency by 1.87×
+### Highlights
+
+* Combined TF-IDF text features with engagement and metadata signals
+* Applied Random Forest classification for misinformation detection
+* Designed an Expected Harm scoring framework for review prioritization
+* Achieved ~1.87× moderation efficiency improvement
+* Intercepted ~56% of harmful engagement while reviewing only the top 30% of prioritized content
+
+### My Involvement
+
+* Collaborated throughout project development, evaluation, and final presentation
+* Participated in exploratory analysis, result interpretation, and validation activities
+* Contributed to project documentation, reporting, and presentation preparation
 
 ### Tech Used
 
-Python • NLP • TF-IDF • Scikit-learn
+Python • NLP • TF-IDF • Scikit-learn • Random Forest • Pandas
 
-🔗 Repository: [Add Repository Link]
+🔗 Repository: [Risk-Based Misinformation Review System](https://github.com/ALikesToCode/industry-4.0-gaabs-analysis)
 
 ---
 
-## 🔹 [Crime Category Forecasting](YOUR_PROJECT_LINK)
+## 🔹 Crime Category Forecasting
 
 Multi-class classification system using XGBoost for crime category prediction.
 
