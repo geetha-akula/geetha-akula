@@ -144,7 +144,7 @@ Multi-class classification system using XGBoost for crime category prediction.
 
 Python • XGBoost • Scikit-learn • Pandas
 
-🔗 Repository: [Add Repository Link]
+🔗 Repository: [Crime Category Forecasting](https://github.com/geetha-akula/CrimeCast-Forecasting-Crime-Categories)]
 
 ---
 
