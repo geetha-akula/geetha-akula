@@ -58,7 +58,7 @@ I build end-to-end machine learning systems focused on prediction, automation, A
 ![Microsoft AI-900](https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft DP-900](https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Cloud Foundations](https://img.shields.io/badge/Google_Cloud-Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud Foundations](https://img.shields.io/badge/NPTEL-Data_Mining-blue?style=for-the-badge)
 ![HackerRank SQL Advanced](https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![NPTEL Data Mining](https://img.shields.io/badge/NPTEL-Data_Mining-blue?style=for-the-badge)
 
