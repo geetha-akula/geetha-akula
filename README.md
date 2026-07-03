@@ -7,13 +7,18 @@ I build end-to-end machine learning systems focused on prediction, automation, A
 ---
 
 ## 🚀 About Me
+
 🎓 BSc in Data Science and Programming, IIT Madras (CGPA: 8.4)
-🤖 Passionate about Machine Learning Engineering, Applied AI, and Data Science
-🧠 Skilled in ML pipelines, model training, backend APIs, and data analysis
-📊 Interested in solving real-world business problems using data-driven systems
-⚡ Building practical machine learning applications with backend integration
-🤝 Experienced working in collaborative Agile-based development environments
-💼 Seeking opportunities in Machine Learning Engineering, Applied AI, and Data Science
+
+🤖 Passionate about Machine Learning, Data Science, and Applied AI
+
+📊 Skilled in Machine Learning, Data Analysis, SQL, Backend APIs, and Predictive Modeling
+
+⚡ Experienced in building end-to-end ML systems, backend services, and data-driven applications
+
+🤝 Strong collaborative experience through Agile-based software development projects
+
+💼 Actively seeking opportunities in Machine Learning Engineering, Data Science, and Applied AI
 
 ---
 
@@ -21,28 +26,54 @@ I build end-to-end machine learning systems focused on prediction, automation, A
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning & Data Science
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
 ### Backend & APIs
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+# 📜 Certifications
+
+### Professional Certifications
+
+![Microsoft AI-900](https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft DP-900](https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Cloud Foundations](https://img.shields.io/badge/Google_Cloud-Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![HackerRank SQL Advanced](https://img.shields.io/badge/HackerRank-SQL_Advanced-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![NPTEL Data Mining](https://img.shields.io/badge/NPTEL-Data_Mining-blue?style=for-the-badge)
+
+### Additional Learning
+
+- 🤖 Machine Learning using Python — Simplilearn
+- 📊 Power BI for Beginners — Simplilearn
+- ☁️ Introduction to Cloud Computing — Simplilearn
+
+---
+
+# 💻 Coding Profiles
+
+- 🟢 **LeetCode:** 44+ Problems Solved
+- 🟢 **HackerRank:** SQL (Advanced)
 
 ---
 
@@ -160,16 +191,16 @@ Python • XGBoost • Scikit-learn • Pandas
 
 # 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetha-akula\&show_icons=true\&hide_border=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geetha-akula&show_icons=true&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetha-akula\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geetha-akula&layout=compact&hide_border=true)
 
 ---
 
 # 🌐 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/geetha-akula](http://www.linkedin.com/in/geetha-akula)
-* Email: [geethaakula123@gmail.com](mailto:geethaakula123@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/geetha-akula
+- 📧 Email: geethaakula123@gmail.com
 
 ---
 
@@ -179,5 +210,5 @@ Python • XGBoost • Scikit-learn • Pandas
 
 ---
 
-⭐ I enjoy building scalable ML systems that combine machine learning, backend engineering, APIs, and practical business impact.
+⭐ *I enjoy building scalable machine learning systems that combine data science, backend engineering, APIs, and real-world business impact.*
 
